@@ -86,11 +86,4 @@ function toReadable (number) {
     }
   }
   
-  /* от 101 до 109  == 0*/ 
- // console.log(  Math.floor(890%100) );
-  
-  /* от 110 до 119  == 0*/ 
-  //console.log(Math.floor(119%100));
-  //console.log( (956%100)%10 );
-  
-  //console.log(toReadable(120));
+ 
